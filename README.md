@@ -1,8 +1,8 @@
-EMAIL SPAM DETECTION
+# EMAIL SPAM DETECTION
 
 One of the primary methods for spam mail detection is email filtering. It involves categorize incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mails based on their content and metadata.
 
-DESCRIPTION
+## DESCRIPTION
 
 • The project code completely done using Python
 
@@ -19,7 +19,7 @@ DESCRIPTION
 • Finally, Classification report has been executed.
 
 
-Other Key steps to Spam Mail Detection:
+## Other Key steps to Spam Mail Detection:
 
 • Email Filtering: One of the primary methods for spam mail detection is email filtering. It involves categorize incoming emails into spam and non-spam. Machine learning algorithms can be trained to filter out spam mails based on their content and metadata.
 
